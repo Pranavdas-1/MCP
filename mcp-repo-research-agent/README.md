@@ -1,1 +1,1 @@
-Hi
+A Model Context Protocol (MCP) client that connects to DeepWiki's public, no-auth MCP server and uses an LLM to answer natural-language questions about any public GitHub repository — architecture, docs, how something works. Includes three interchangeable client implementations (Claude, Gemini free tier, and LangChain's create_agent) to compare a raw protocol integration against a framework-based one.
